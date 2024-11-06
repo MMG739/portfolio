@@ -191,7 +191,7 @@ body {
     padding: 8px;
 }
 .little{
-    max-width: 16vw;
+    width: 16vw;
     min-width: 15%;
     vertical-align: middle;
 }
